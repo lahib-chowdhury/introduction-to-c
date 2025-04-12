@@ -15,9 +15,10 @@ This is my personal journey into the C language. I'm using this repo to:
 ## 📖 Topics I'm Learning
 
 - ✅ Basics of C
-- ✅ Data types and variables
 - ✅ Control structures (if, loops, switch)
-
+- ✅Basic Syntax, Variables and Data Types
+- ✅Operators, Conditional Statements
+- ✅Loop
 
 
 
